@@ -1,5 +1,5 @@
 # Profit-Prediction-of-50-Startups
--Worked on a dataset containing the data of 50 startups with 4 features.
+-Worked on a dataset containing the data of 50 startups.
 
 -Performed statistical analysis and exploratory data analysis to check the trends within the data.
 
